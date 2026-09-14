@@ -4,4 +4,4 @@ def greet(name="Tanveer"):
 print(greet("Alice"))
 print(greet())
 print(greet(None)) 
-print(greet(True))  # This will print "Hello, Bob!" since "Bob" is passed as the name
+print(greet(True))  # This will print "Hello, True!" since True is passed as the name
